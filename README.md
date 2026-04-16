@@ -32,3 +32,11 @@ N/A
 <img width="1572" height="1184" alt="w3 new breakdown 33" src="https://github.com/user-attachments/assets/f9876997-2821-44de-bf5a-629fcac72627" />
 
 ### Activity 2
+
+1. So that there is a reliable access to the correct event name whenever you want to trigger said event
+
+2. The debug logs are helpful as you can ensure that the states are transitioning correctly and the states are actually changing
+
+3. Set cursor lock state is relevant as my game is in first person and looking around is easier, more intuitive, and less tedious when the cursor is locked
+
+4. I may not be using a high level game state tracker like the explore and dialogue ones used in this activity. However, I plan on using enemy states for wandering, chasing, and attacking.
