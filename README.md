@@ -31,4 +31,4 @@ N/A
 
 <img width="1572" height="1184" alt="w3 new breakdown 33" src="https://github.com/user-attachments/assets/f9876997-2821-44de-bf5a-629fcac72627" />
 
-
+### Activity 2
