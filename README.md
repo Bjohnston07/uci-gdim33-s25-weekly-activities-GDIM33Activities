@@ -61,4 +61,12 @@ Put colliders on extra objects. Chase and hit distance is fine.
 
 ### Activity 2
 
+1. A writer would easily be able to add more dialogue without code as the inputs for the line adn replies are already created and available in inspector. The writer would only need
+to create new scriptable objects in the project window and fill in the line and replies in the inspector and connect them.
+
+2. There is a limit of 4 buttons on the screen at once but there is theoretically no limit to the depth or layering of the choices.
+
+3. The "Regenerate Nodes" button is used to create new nodes for use in visual scripting that are not normally in Unity's libraries. Such as methods or variables made in a C# script,
+those will not show in the visual scripting graph as a node until they are regenerated and added to the list of nodes to use.
+
 
