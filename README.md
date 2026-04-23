@@ -40,3 +40,17 @@ N/A
 3. Set cursor lock state is relevant as my game is in first person and looking around is easier, more intuitive, and less tedious when the cursor is locked
 
 4. I may not be using a high level game state tracker like the explore and dialogue ones used in this activity. However, I plan on using enemy states for wandering, chasing, and attacking.
+
+## W4
+
+### Activity 1
+
+- The player can move around a space and click to show a weapon effect in order to kill enemies that run at you and attack you. You can kill the enemies but they cannot kill you.
+The enemies also have animations.
+
+Goals:
+- Is the flamethrower style effect satisfying or enjoyable?
+- Feedback on the monster behavior
+
+Playtesting Team:
+- Nolan Burns, Jayden Ishibashi
