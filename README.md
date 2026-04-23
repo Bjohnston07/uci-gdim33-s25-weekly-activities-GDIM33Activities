@@ -69,4 +69,8 @@ to create new scriptable objects in the project window and fill in the line and 
 3. The "Regenerate Nodes" button is used to create new nodes for use in visual scripting that are not normally in Unity's libraries. Such as methods or variables made in a C# script,
 those will not show in the visual scripting graph as a node until they are regenerated and added to the list of nodes to use.
 
+Bonus Point:
+
+<img width="2540" height="1412" alt="w4 33 bonus point proof" src="https://github.com/user-attachments/assets/cefd3f0d-4b3e-491d-a483-6ea7ef371879" />
+
 
