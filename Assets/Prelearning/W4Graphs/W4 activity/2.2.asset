@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d87814806be98455aa06d85e22ad29d6, type: 3}
+  m_Name: 2.2
+  m_EditorClassIdentifier: 
+  particles: {fileID: 0}
+  Line: Be nice to me
+  ReplyOptions:
+  - line: No
+    nextNode: {fileID: 11400000, guid: 6a1045735bf18ab41a2bc067e83cbd19, type: 2}
+  - line: Sorry
+    nextNode: {fileID: 11400000, guid: 2b3c26784687b3143accd08724fd5905, type: 2}

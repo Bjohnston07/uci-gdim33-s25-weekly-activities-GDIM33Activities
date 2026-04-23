@@ -58,3 +58,7 @@ Playtesting Team:
 Feedback:
 - good animations, good choice for monster model, if the enemy attacks the animation stops and the enemy moonwalks. Hard to tell how long the weapon effect is, cannot tell if hitting the enemy.
 Put colliders on extra objects. Chase and hit distance is fine.
+
+### Activity 2
+
+

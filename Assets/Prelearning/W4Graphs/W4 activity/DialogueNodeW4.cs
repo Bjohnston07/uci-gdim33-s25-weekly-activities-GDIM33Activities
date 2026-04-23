@@ -9,6 +9,8 @@ namespace W4Activity
         //---------------------------------------------------------------------
         // Variables
         //---------------------------------------------------------------------
+        public ParticleSystem particles;
+
         [Tooltip("The line of dialogue the NPC says in this node.")]
         public string Line;
 
