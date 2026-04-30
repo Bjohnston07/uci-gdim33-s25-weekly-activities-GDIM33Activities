@@ -73,4 +73,28 @@ Bonus Point:
 
 <img width="2540" height="1412" alt="w4 33 bonus point proof" src="https://github.com/user-attachments/assets/cefd3f0d-4b3e-491d-a483-6ea7ef371879" />
 
+## W5
+
+### Activity 1
+
+Keyframe animations
+1. Create empty timeline object
+2. Create the timeline asset and remove the animator component
+3. Keyframe camera pan to enemy
+4. Keyframe attack animation
+5. Pan out and turn on text and start button
+
+Gameplay integration
+1. Create separate scene to hold
+2. Play on start
+3. No looping
+4. Script that hold scene manager to switch scenes where the player will be dropped
+
+### Activity 2
+
+I created a timeline in a new scene and was able to animate the camera to pan down towards an enemy, have the enemy play an attack animation, start the running animation, and 
+turn on a button to move to the main scene. There is a script for moving to the main scene connected to the button. I created a skybox material that is dark and turned down
+the default lighting to make the scene very dark.
+
+
 
