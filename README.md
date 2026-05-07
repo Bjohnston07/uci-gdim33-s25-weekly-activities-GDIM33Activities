@@ -118,5 +118,13 @@ Notes:
 - Hard to know when the enemies are being hit
 - Animation event for player to take damage during attack animation
 
+### Activity 2
+
+1. The color becomes darker and less saturated as when multiplying decimals the product is lower thn the originals, making the RGB values decrease
+2. Less for the same reason as before
+3. The UV coordinates comes from the vertex data within the mesh
+4. It's pretty interesting to me as I learned it in sophomore year of high school as well and made my AP comp sci principles project based around a user being able to create their
+1. own color combinations overlayed onto an image
+
 
 
