@@ -96,5 +96,27 @@ I created a timeline in a new scene and was able to animate the camera to pan do
 turn on a button to move to the main scene. There is a script for moving to the main scene connected to the button. I created a skybox material that is dark and turned down
 the default lighting to make the scene very dark.
 
+## W6
+
+### Activity 1
+
+Since the last playtest I have added a flamethrower model and flame particle system, added the overheat mechanic to the flamethrower, added the ability to pick up medicine and use
+it, fixed the enemy animations, added an intro scene and cutscene using timeline, and allowed the player to die if they take enough damage
+
+[Itch Link](https://bjohnston07.itch.io/playtest-2)
+
+Goals: Does the relationship between movement speed, taking and dealing damage, and healing feel right. Generally try and find bugs
+
+Notes:
+- Cutscene instantly transition to run 
+- Camera Teleporting (might be mouse issue)
+- Collider clipping issue
+- Try and make flamethrower particle system bounce off colliders
+- Look around and health goes to negative after dying
+- Specific ranges where the animation doesn't continue
+- Death animation doesn't interrupt 
+- Hard to know when the enemies are being hit
+- Animation event for player to take damage during attack animation
+
 
 
