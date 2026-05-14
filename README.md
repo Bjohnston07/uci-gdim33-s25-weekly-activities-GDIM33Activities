@@ -126,5 +126,16 @@ Notes:
 4. It's pretty interesting to me as I learned it in sophomore year of high school as well and made my AP comp sci principles project based around a user being able to create their
 1. own color combinations overlayed onto an image
 
+## Week 7
+
+1. The data for the Vertex Color node comes from each vertex in the mesh
+2. The interpolation between each vertex creates the blending effect
+3. The quality of the texture when using vertex color relies on the sheer quantity of vertices. Vertex color can be used for puposely low poly aesthetics as well as ease of use
+and ease of creation
+4. There is an odd patch of lighter green on the backside of the shiba
+5. You could also map UV data to a color to differentiate the pieces of the UV map
+6. The surface normals were opposite directions causing the dot product to be reversed
+7. The Blend mode being additive changes the result of the color multiplication onto the shader to be a gradual increase
+
 
 
