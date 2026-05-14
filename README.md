@@ -135,7 +135,8 @@ and ease of creation
 4. There is an odd patch of lighter green on the backside of the shiba
 5. You could also map UV data to a color to differentiate the pieces of the UV map
 6. The surface normals were opposite directions causing the dot product to be reversed
-7. The Blend mode being additive changes the result of the color multiplication onto the shader to be a gradual increase
+7. The Blend mode being additive changes the result of the color multiplication onto the shader to be a gradual increase as compared to multiplicative where values will decrease
+down to 0 and reach black. This effect is applied based on the material behind what the current material is in front of.
 
 
 
