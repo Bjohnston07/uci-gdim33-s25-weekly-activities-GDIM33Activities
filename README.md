@@ -158,4 +158,14 @@ Notes:
 - hit indication on the player and enemy
 - Map and colliders
 
+### Activity
+
+1. The full screen pass renderer feature is what is associated with the effect, this is known because the effect doesn't exist on previous passes
+
+2. When the lerp value is set to 0, the texture is invisible, at 0.5 it is partly visible, and at 1 it is entirely visible ontop of the screen
+
+3. The float value changes what percent you want between the texture and the original screen image with somehting like 10%, or 0.1 being heavy emphasis on the original image
+
+4. sin(x) naturally goes from -1 to 1 and we want values from 0-1. Therefore, the graph adds 1 to bring it to 0-2 then divides by 2 to bring it back down to 0-1.
+
 
