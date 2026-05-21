@@ -138,5 +138,24 @@ and ease of creation
 7. The Blend mode being additive changes the result of the color multiplication onto the shader to be a gradual increase as compared to multiplicative where values will decrease
 down to 0 and reach black. This effect is applied based on the material behind what the current material is in front of.
 
+## Week 8
+
+### Playtest
+
+Goal: Does the game feel intuitive to play in terms of the controls 
+- How to make the you are being hunted ui better
+
+Link: [Playtest Link](https://bjohnston07.itch.io/33-playtest-3)
+
+There is nothing new to the build since milestone 2
+
+Notes: 
+- Hunted UI stays when enemy dies
+- Not clear what hunted means
+- make overheat to 100
+- Flamethrower creates light
+- takes damage only when they swing not on collision
+- hit indication on the player and enemy
+- Map and colliders
 
 
