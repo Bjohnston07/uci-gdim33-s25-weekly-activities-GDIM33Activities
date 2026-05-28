@@ -168,4 +168,23 @@ Notes:
 
 4. sin(x) naturally goes from -1 to 1 and we want values from 0-1. Therefore, the graph adds 1 to bring it to 0-2 then divides by 2 to bring it back down to 0-1.
 
+## Week 9
+
+### Activity 1
+
+Game: subnautica
+
+1: Color of the water
+	- We think it's a full-screen, post-processing effect.
+	- The effect adds/changes a color filter over the screen depending on where they are on the map
+	- It would be activated based on the player position (something like depth) and by identifying what biome they are in
+
+2: Effect when exiting water
+	- A full screen effect as well
+	- An animated texture set to play when passing above water
+
+### Activity 2
+
+
+
 
