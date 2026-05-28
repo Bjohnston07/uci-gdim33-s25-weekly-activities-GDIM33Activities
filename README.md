@@ -185,6 +185,14 @@ Game: subnautica
 
 ### Activity 2
 
+<img width="2010" height="1319" alt="image" src="https://github.com/user-attachments/assets/28320c86-ef15-4aa3-b257-6ce314a25ffd" />
+
+<img width="1622" height="960" alt="image" src="https://github.com/user-attachments/assets/2fa3315b-c911-43ef-9837-ca787eed6b7a" />
+
+I used the same methods as activity C from week 8 but the float input going into the T value of the Lerp is changed in code. It's a surface input variable changed within the players script after they take damage based around what the current health is. 
+
+
+
 
 
 
