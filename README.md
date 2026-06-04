@@ -224,6 +224,8 @@ Notes:
 
  ### Activity 3
 
+[Commit Link](https://github.com/Bjohnston07/VerticalSlice/commit/88fd525815953c55217504de881628b76b49aa18)
+
 I fixed a movement issue by disconnecting old code for looking around, changed the resolution to 960x600, and rebaked the navmesh for the new map
 
 
