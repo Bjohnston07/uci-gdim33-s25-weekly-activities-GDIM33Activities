@@ -192,7 +192,39 @@ Game: subnautica
 I used the same methods as activity C from week 8 but the float input going into the T value of the Lerp is changed in code. It's a surface input variable changed within the players script after they take damage based around what the current health is. 
 
 
+## Week 10
 
+### Playtesting
+
+[Playtest Link](https://bjohnston07.itch.io/33-milestone-3)
+
+Nothing new since last milestone
+
+Goals: Find bugs and find new things to add
+
+Notes:
+- Can hit enemies through walls
+- Condition where hurt image doesn't leave
+- Enemy damage should go up
+- Movement is still cooked (probably unity issue may be unfixable)
+- Fix wall positions, not lined up
+- Some way to show visually you can't go out the door
+- Add more max lights
+
+### Activity 2
+
+ First identify the core game loop that will create the main feeling of the game as well as the main game experience. Focus only on CORE mechanics
+ Next create the systems that will implement these mechanics
+ Figure out what components, variables, and game objects are required to build those systems
+ Note these or visualize them in breakdown style charts, visually recreating each object with its sub components and how those objects interact, therefore representing the systems
+
+
+ If you plan poorly, it may make each system seem easier to make than it actually is since you haven't looked in depth at each task. However planning well will acurately tell you
+ the difficulty of creating your game which will naturally tell you the scope.
+
+ ### Activity 3
+
+I fixed a movement issue by disconnecting old code for looking around, changed the resolution to 960x600, and rebaked the navmesh for the new map
 
 
 
